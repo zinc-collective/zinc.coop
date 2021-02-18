@@ -4,6 +4,28 @@ title: Meeting Notes
 ---
 We currently have a monthly members-only meeting. We will publish meeting summaries here.
 
+## Member meeting - November 15, 2020
+* Mostly socialized and caught up with one another.
+
+
+## Member meeting - October 18, 2020
+
+* Reviewed the Q3 2020 P&L and Balance Sheets
+* Discussed allocating product revenue to future Patronage Payouts, with the intent to begin allocating 50% of all product revenues (less community dues) towards future Patronage redemptions.
+* Zee is stepping down to 4~8 hours a week for Q4 2020
+
+## Member meeting - September ??, 2020
+
+* Discussed member benefits, and that the primary benefit is opportunities to learn with others. Secondary is building out the long-term potential for financial sustainability.
+* Discussed the degree of urgency vs complacency and how it impacts the feel of the organization.
+* Decided to allocate the balance from the Open Collective to sponsoring BIPOC led organizations  dedicated to ending redlining in tech
+
+## Member meeting - August 21, 2020
+
+* Voted to become a full member of the U.S. Federation of Worker Cooperatives
+* Enthusiastically discussed onboarding a Maintainer who may be interested in becoming a full member.
+* Discussed balancing finding leverage and applying force
+
 ## Member meeting - July 17, 2020
 
 * Voted to renew our membership in the U.S. Federation of Worker Cooperatives
