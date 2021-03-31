@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Become a Contributor</title>
+    <link rel="stylesheet" href="/styles/default.css">
+  </head>
+  <body>
+    <header class="header-container" role="navigation" aria-label="main navigation">
+
+  <a class="header-item" href="/">Home</a>
+  <a class="header-item" href="/product-and-services">Products and Services</a>
+  <a class="header-item" href="/people">People</a>
+
+  <button class="header-item" aria-haspopup="true">
+    Join us
+    <div class="dropdown-container" aria-label="submenu">
+      <a class="dropdown-item" href="/contributing">Become a Contributor</a>
+      <a class="dropdown-item" href="/maintaining">Become a Maintainer</a>
+      <a class="dropdown-item" href="/project-guidelines">Project Guidelines</a>
+      <a class="dropdown-item" href="/code-of-conduct">Code of Conduct</a>
+      <a class="dropdown-item" href="/operating-agreement">Operating Agreement</a>
+    </div>
+  </button>
+
+  <button class="header-item" aria-haspopup="true">
+    About us
+    <div class="dropdown-container flex flex-row justify-center align-middle" aria-label="submenu">
+      <a class="dropdown-item" href="/financial-overview">Financial Overview</a>
+      <a class="dropdown-item" href="/meeting-notes">Meeting Notes</a>
+    </div>
+  </button>
+
+  <a class="header-item" href="/contact-us">Contact Us</a>
+</header>
+
+    <main>
+      <h1>Become a Contributor</h1>
+      <p>Welcome! First off; <em><strong>THANK YOU</strong></em> for your interest in contributing to Zinc!
+Your time is valuable, so let's get started!</p>
+<p>Zinc products and services would stagnate without our <em>Contributors</em>.
+Contributors suggest and implement changes to our products and services for
+<a href="/maintaining/"><em>Maintainers</em></a> to apply.</p>
+<p>Anyone and everyone can be a Contributor! All we ask is that Contributors follow
+a few ground rules to help Zinc Maintainers and Contributors work well together.</p>
+<h3>Contributor Ground Rules</h3>
+<p>The keywords <em>must</em>, <em>must not</em>, and <em>should</em> in this document are to be
+interpreted as described in <a href="https://tools.ietf.org/html/rfc2119">RFC 2119</a>.</p>
+<ul>
+<li>Contributors <em>must</em> comply with Zinc's <a href="https://www.zinc.coop/code-of-conduct/">code of conduct</a>.</li>
+<li>Contributors <em>must</em> <a href="#legal">assign ownership</a> of their
+contributions to Zinc.</li>
+<li>Contributors <em>should</em> <a href="#getting-help">ask for help</a> when they get stuck.</li>
+<li>Contributors <em>should</em> expect others to build their Contributions.</li>
+</ul>
+<h2>How can I contribute...</h2>
+<h3>Features or requests?</h3>
+<p>Gaps between what a Contributor <em>wishes</em> a product did and what it does is a
+<em>missing feature</em>. Small, incremental features with clear use cases are the
+easiest and fastest to build.</p>
+<p>Contributors are encouraged to <a href="https://github.com/zinc-collective/www.zinc.coop/issues">create a feature requests in the issue
+tracker</a>.</p>
+<p>To start building the feature, review the <a href="#development-guide">development
+workflow</a>.</p>
+<h3>Bug reports or fixes?</h3>
+<p>Gaps between what a Contributor <em>expects</em> a product to do and what it <em>actually
+does</em> is a <em><em>bug</em></em>. Bug reports that clearly express what was expected to happen
+and what did happen are the easiest to resolve.</p>
+<p>If you notice something unexpected in a product, please <a href="https://github.com/zinc-collective/www.zinc.coop/issues">create a bug report in
+our issue tracker</a>. We try to prioritize fixing bugs over adding
+features.</p>
+<p>If you want to try squashing the bug yourself; review the <a href="#development-guide">development
+workflow</a>.</p>
+<h3>Security concerns or patches?</h3>
+<p>We take security seriously, but that doesn't mean we will always get it right.
+We encourage Contributors to <a href="https://github.com/zinc-collective/www.zinc.coop/issues">create a security report</a> with
+security concerns.</p>
+<p>If the concern may expose a vulnerability in a released version of a product,
+please <a href="mailto:maintainers@zinc.coop">email the maintainers</a>.</p>
+<p>If you think you can resolve the concern yourself; start by reviewing the
+<a href="#development-guide">development workflow</a>.</p>
+<h3>Documentation improvements?</h3>
+<p>We strive for documentation to be findable, clear, and in plain language. If you
+are unable to find an answer to your questions, please <a href="https://github.com/zinc-collective/www.zinc.coop/issues">create a documentation
+request in our issue tracker</a>.</p>
+<p>If you think you can fix the documentation yourself, feel free to <a href="https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-another-users-repository">use the
+GitHub editor</a>.</p>
+<h3>Translations?</h3>
+<p>At present, we do not have a strategy for internationalization of our products
+or documentation. If you have recommendations, please start a conversation in
+our <a href="https://github.com/zinc-collective/www.zinc.coop/issues">issue tracker</a>.</p>
+<h2>Getting Help</h2>
+<p>There are two ways to get help; one is through <a href="https://github.com/zinc-collective/www.zinc.coop/issues">opening a ticket in our issue
+tracker</a>, where we will do our best to provide support in a
+timely manner.</p>
+<p>For people or businesses with urgent support needs, we offer professional
+support at $250USD per hour. Support can be scheduled by <a href="mailto:maintainers@zinc.coop">emailing
+maintainers@zinc.coop</a>.</p>
+<h2>Development Guide</h2>
+<p>This guide is the starting point for people who would like to directly modify a
+Zinc product to fix a bug or enhance a feature.</p>
+<p>If you are unsure what change you would like to make to a product, <a href="#find-something-to-do">find
+something to do!</a></p>
+<p>If know what you would like to change, start <a href="#learn-the-system">learning the
+system</a>.</p>
+<p>If you know what you want to change and are comfortable with the product's
+design and architecture, Try to <a href="#make-a-change">make the change</a>.</p>
+<h3>Find Something To Do</h3>
+<p>We encourage Contributors to <em>&quot;eat their own dog food&quot;</em> and make changes that
+are interesting or useful to them.</p>
+<p>When that fails, we recommend taking a look at the open tickets in our <a href="https://github.com/zinc-collective/www.zinc.coop/issues">issue
+tracker</a>.</p>
+<p>The label &quot;Help Wanted&quot; is where we need some help. &quot;Good First Issue&quot; is for we
+think new contributors can chip in. The labels &quot;Code&quot;, &quot;Design&quot;, or
+&quot;Documentation&quot; indicate what particular skills an issue likely takes.</p>
+<h3>Learn the System</h3>
+<p><a href="https://guides.github.com/activities/forking/">Fork and clone the project repository</a> and review the
+product design and architecture documentation found in the projects <code>README.md</code>.</p>
+<h3>Make a Change</h3>
+<p>First, review the dependencies and install the tools needed to build and run the
+product. Many projects have automated these steps by including a script called
+<code>bin/setup</code>.</p>
+<p>We recommend Contributors write a test to isolate the bug or demonstrate the
+feature.</p>
+<p>Test are ran by executing <code>bin/test</code> within the projects top-level directory.</p>
+<p>If you are unsure how to proceed at any point, please take some time to <a href="#learn-the-system">learn
+the system</a> or <a href="#getting-help">ask for help</a>.</p>
+<h3>Submit a Patch</h3>
+<p>We closely follow <a href="https://guides.github.com/introduction/flow/">GitHub Flow</a>, with the following exceptions:</p>
+<ol>
+<li>We encourage contributors to <a href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request">create a draft pull
+request</a> early, even if the work isn't 'done' as
+this is the easiest way to <a href="#getting-help">get help</a>. Sharing work early makes it
+possible for other Contributors to keep up with and build on top of the work
+done, instead of needing to reinvent the wheel.</li>
+<li>We name our primary branch <code>production</code>, <code>staging</code>, and <code>development</code> for
+services and the major version (<code>0.X</code>, <code>1.X</code>, etc) for libraries.</li>
+</ol>
+<p>We encourage Contributors to name their branches in such a way as to indicate
+why the branch exists. For example: <code>fix/login-error</code> or <code>enhance/typography</code> or
+<code>document/how-to-contribute</code>.</p>
+<h2>Legal</h2>
+<p>Before Maintainers can merge a Contributor's changes, Contributors <em>must</em> grant
+Zinc all rights to the work performed on the project by sending the following
+message to <a href="mailto:operations@zinc.coop">operations@zinc.coop</a> or as a comment on your
+<a href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request">pull request</a>.</p>
+<blockquote>
+<p>&quot;I assign all rights, including copyright, to any of my future work on Zinc
+projects to Zinc Collective LLC.&quot;</p>
+</blockquote>
+<h3>Why?</h3>
+<p>To put it bluntly, long term viability.</p>
+<p>Copyright assignment grants Zinc the flexibility to decide how best to leverage
+the changes Contributors provide.</p>
+<p>Because Zinc is a cooperative, any Contributor may <a href="https://www.zinc.coop/operating-agreement/#b-2-becoming-a-member">become an owner of
+Zinc</a>, granting rights to board representation and to share in
+the near and long term wealth generated by our products and services.</p>
+
+    </main>
+    <footer>
+  <p>
+    <a href="https://twitter.com/ZincCooperative">
+      <svg class="h-6 w-6 float-left mr-4" fill="white" viewBox="0 0 24 24">
+        <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84"/>
+      </svg>
+      twitter.com/ZincCooperative
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/zinc-collective/">
+      <svg class="h-6 w-6 float-left mr-4" fill="white" viewBox="0 0 24 24">
+        <path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd"/>
+      </svg>
+      GitHub.com/zinc-collective
+    </a>
+  </p>
+  <p>
+    <a href="https://opencollective.com/zinc-community">
+      <svg class="h-6 w-6 float-left mr-4" fill="white" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M21.86 5.17a11.94 11.94 0 0 1 0 13.66l-3.1-3.1a7.68 7.68 0 0 0 0-7.46l3.1-3.1zm-3.03-3.03l-3.1 3.1a7.71 7.71 0 1 0 0 13.51l3.1 3.11a12 12 0 1 1 0-19.73 M21.86 5.17a11.94 11.94 0 0 1 0 13.66l-3.1-3.1a7.68 7.68 0 0 0 0-7.46l3.1-3.1z"/>
+      </svg>
+      opencollective.com/zinc-community
+    </a>
+  </p>
+  <p class="mt-8">
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+      <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>
+    </a>
+    <p class="text-base leading-6 text-white" xmlns:dct="http://purl.org/dc/terms/" property="dct:title">
+      The Zinc Collective&trade;&copy; Website by
+      <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.zinc.coop/" property="cc:attributionName" rel="cc:attributionURL">Zinc Collective, LLC</a>
+      is licensed under a
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+    </p>
+   <p/>
+</footer>
+
+  </body>
+</html>
