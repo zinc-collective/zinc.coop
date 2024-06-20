@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: layouts/default.njk
 title: About Us
 ---
 
@@ -28,7 +28,7 @@ Some members of the Zinc Collective.
   <div class="person-specialties">
     <h4>Interests:</h4> {{ person.interests }}
   </div>
+  <p>{% markdown %}{{ person.bio }}{% endmarkdown %}</p>
 
-  <p>{{ person.bio }}</p>
 </div>
 {% endfor -%}
