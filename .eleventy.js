@@ -1,3 +1,5 @@
+const markdownIt = require("markdown-it");
+
 module.exports = function(config) {
   // A useful way to reference the context we are runing eleventy in
   let env = process.env.ELEVENTY_ENV;
@@ -10,6 +12,10 @@ module.exports = function(config) {
   config.addPassthroughCopy("src/favicons")
 
   config.addWatchTarget("./src/styles/");
+
+  config.addPairedNunjucksShortcode("markdown", (content) => {
+    return new markdownIt({ html: true }).render(content);
+  });
 
   return {
     dir: {
