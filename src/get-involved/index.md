@@ -13,12 +13,16 @@ You can join our <a href="https://discord.gg/QK9VVg4D">Group Chat</a> to meet an
 
 Looking to build your coding skills in a safe, supportive setting? Join our weekly ensembles and contribute to <a href="https://github.com/zinc-collective/convene#contributing-to-convene">Convene</a> or <a href="https://github.com/zinc-collective/mp-shake-it-photo#become-a-contributor">Moment Park</a>. Weekly ensembles are organized in the style of mob programming sessions. Programmers and designers of all levels are encouraged to join.
 
-### 💪 Capacity Building
+### Touching Grass
+
+Eat pizza by the lake.
+
+### 💪 Seeking Capacity Builders
 One of our biggest challenges at the moment is supporting folks who want to contribute to our software products. We believe Convene can be an impactful, non-extractive alternative to enshitified Saas products. But we aren't making any money yet. Our members and volunteer contributors are all working pro-bono at the moment. But we'd like to change that.
 
 If you're interested or have skills in organizational/community development and capacity-building, we'd love your help strategizing to create paid opportunities for volunteer contributors.
 
-### 👩‍🌾 Product Stewardship
+### 👩‍🌾 Seeking Product Stewardshippers
 
 We also need help from folks with skills in project management, product management, and product design to help steward our partner relationships and create meaningful, human-centered experiences for our products.
 
