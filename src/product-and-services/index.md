@@ -1,6 +1,6 @@
 ---
 layout: layouts/default.njk
-title: Products and Services
+title: Products & Services
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 float-left mr-2 mt-8">
@@ -26,7 +26,7 @@ A suite of digital photography and videography apps for iOS. It currently needs 
 
 ## Services
 
-In addition to our original products, some [Zinc Collective members](/about-us) are able to build, maintain and consult for values-aligned organizations.
+In addition to our original products, some [Zinc Collective members](/who-we-are) are able to build, maintain and consult for values-aligned organizations.
 
 Our current capacity is in the areas of:
 

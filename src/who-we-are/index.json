@@ -2,7 +2,7 @@
    "people": [
       {
          "name": "Zee Spencer",
-         "image": "/about-us/img/zspencer.jpg",
+         "image": "/who-we-are/img/zspencer.jpg",
          "type": "Member",
          "location": "San Francisco, CA",
          "links": {
@@ -16,7 +16,7 @@
       },
       {
          "name": "Ana Ulin",
-         "image": "/about-us/img/anaulin.jpg",
+         "image": "/who-we-are/img/anaulin.jpg",
          "type": "Member",
          "location": "Oakland, CA",
          "links": {
