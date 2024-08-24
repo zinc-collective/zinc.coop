@@ -11,7 +11,7 @@ Join our <a href="https://discord.gg/QK9VVg4D">Discord Server</a> and introduce 
 
 ### Learning Ensembles
 
-Looking to improve your coding skills in a supportive, non-judgemental setting? Join our weekly ensembles and contribute to one of our active projects like <a href="https://github.com/zinc-collective/convene#contributing-to-convene">Convene</a> or <a href="https://github.com/zinc-collective/mp-shake-it-photo#become-a-contributor">Moment Park</a>. Ensembles are organized in the style of <em>choose your own adventure</em> mob programming sessions. Programmers, designers, and product folks of all levels are encouraged to join and contribute any and all skills that apply to building software applications.
+Improve your coding skills in a supportive, non-judgemental setting with a group of peers that have decades of hands-on industry experience. Join our weekly ensembles and contribute to one of our active projects like <a href="https://github.com/zinc-collective/convene#contributing-to-convene">Convene</a> or <a href="https://github.com/zinc-collective/mp-shake-it-photo#become-a-contributor">Moment Park</a>. Ensembles are organized in the style of <em>choose your own adventure</em> mob programming sessions. Programmers, designers, and product folks of all levels are encouraged to join and contribute any and all skills that apply to building software applications.
 
 ### Touch Grass
 
