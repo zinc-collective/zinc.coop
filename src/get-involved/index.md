@@ -28,8 +28,12 @@ We also need help from folks with skills in project management, product manageme
 
 ### Become a Client Owner
 
+TODO
+
 ### Become a Member
+
+TODO
 
 ### Donate
 
-If you already think what we're doing is cool, give us money. Become a Sponsor in our <a href="https://opencollective.com/zinc-community#category-CONTRIBUTE">Open Collective</a>.
+TODO. If you already think what we're doing is cool, give us money. Become a Sponsor in our <a href="https://opencollective.com/zinc-community#category-CONTRIBUTE">Open Collective</a>.
