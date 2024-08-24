@@ -3,7 +3,7 @@ layout: layouts/default.njk
 title: About Us
 ---
 
-The Zinc collective is made up of Member Owners, Client Owners, and volunteers who come from a range of backgrounds. Most of us are technologists seeking a slow-paced, cozy, caring, safe retreat away from the commercial industry to be our authentic selves and find community. We work remotely but our roots in are in Oakland, CA so there is a core group of members in the Bay Area.
+The Zinc collective is made up of Member Owners, Client Owners, and contributors who come from a range of backgrounds. Most of us are technologists seeking a slow-paced, cozy, caring, safe retreat away from the commercial industry to be our authentic selves and find community. We work remotely but our roots in are in Oakland, CA so there is a core group of members in the Bay Area.
 
 Some members of the Zinc Collective.
 
