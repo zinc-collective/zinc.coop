@@ -3,7 +3,9 @@ layout: default
 title: Get Involved
 ---
 
-There are many ways to get involved with Zinc collective and support our vision for a post-scarcity world.
+There are many ways to get involved with the Zinc collective and support our
+vision for a post-scarcity world. Because we are small, as a new participant
+you can have an immediate impact on how we gather, learn, and build together.
 
 ### Join the chat
 
@@ -15,7 +17,10 @@ Improve your coding skills in a supportive, non-judgemental setting with a group
 
 ### Touch Grass
 
-Eat pizza by the lake.
+If you live in the Bay Area, join us once in a while to meet in-person for movie
+nights, eating catch-of-the-day Arizmendi pizza by lake Merritt, or other events
+of note on the town. Join the `#san-francisco-bay-area regional` hub in our <a
+href="https://discord.gg/QK9VVg4D">Discord Server</a> to stay in touch.
 
 ### Seeking Capacity Builders
 One of our biggest challenges at the moment is supporting folks who want to contribute to our software products. We believe Convene can be an impactful, non-extractive alternative to enshitified Saas products. But we aren't making any money yet. Our members and volunteer contributors are all working pro-bono at the moment. But we'd like to change that.
@@ -26,13 +31,11 @@ If you're interested or have skills in organizational/community development and 
 
 We also need help from folks with skills in project management, product management, and product design to help steward our partner relationships and create meaningful, human-centered experiences for our products.
 
-### Become a Client Owner
+### Become a Member or Client Owner
 
-TODO
+More details comign soon. In the meantime reach out to us on our <a href="https://discord.gg/QK9VVg4D">Discord Server</a> if you are interested.
 
-### Become a Member
 
-TODO
 
 ### Donate
 

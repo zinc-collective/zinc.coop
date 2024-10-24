@@ -1,10 +1,10 @@
 module.exports = {
-  content: [ 'dist/**/*.{html,js}' ],
+  content: ['dist/**/*.{html,js}'],
   plugins: [
     require('@tailwindcss/forms'),
     require('@tailwindcss/typography'),
     require('@tailwindcss/aspect-ratio'),
-   ],
+  ],
   theme: {
     extend: {
       colors: {
@@ -12,6 +12,7 @@ module.exports = {
         'zinc-dark-purple': '#1F1735',
         'zinc-pastel-pink': '#FE9BFF',
         'zinc-pastel-purple': '#A79BFF',
+        'zinc-dark-purple-light': '#6048A3'
       }
     }
   }

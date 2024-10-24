@@ -2,23 +2,26 @@
 
 body {
   @apply p-0 bg-zinc-dark-purple text-white leading-relaxed;
+  font-family: Roboto, sans-serif;
 }
 
 h1, h2, h3, h4 {
-  @apply font-bold mt-2;
+  @apply font-bold mt-5;
+  font-family: Caladea, serif;
+  letter-spacing: .05em;
 }
 h1 {
-  @apply text-4xl;
+  @apply text-5xl;
 }
 h2 {
-  @apply text-3xl mt-8;
+  @apply text-4xl mt-8;
 }
 h3 {
-  @apply text-2xl;
+  @apply text-3xl;
 }
 
 h4 {
-  @apply text-xl ;
+  @apply text-2xl ;
 }
 
 a {
@@ -164,3 +167,4 @@ footer {
 }
 
 @tailwind utilities;
+
