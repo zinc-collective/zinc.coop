@@ -42,6 +42,6 @@ href="mailto:hello@zinc.coop">hello@zinc.coop</a> if you are interested.
 ### Donate
 
 If you would like to support the growth and sustainability of the Zinc
-Collective, consider becoming a Sponsor in our <a
+, consider becoming a Sponsor in our <a
 href="https://opencollective.com/zinc-community#category-CONTRIBUTE">Open
 Collective</a>.
