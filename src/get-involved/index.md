@@ -19,7 +19,7 @@ Improve your coding skills in a supportive, non-judgemental setting with a group
 
 If you live in the Bay Area, join us once in a while to meet in-person for movie
 nights, eating catch-of-the-day Arizmendi pizza by lake Merritt, or other events
-of note on the town. Join the `#san-francisco-bay-area regional` hub in our <a
+of note on the town. Join the <strong>#san-francisco-bay-area</strong> regional hub in our <a
 href="https://discord.gg/QK9VVg4D">Discord Server</a> to stay in touch.
 
 ### Seeking Capacity Builders
@@ -33,7 +33,9 @@ We also need help from folks with skills in project management, product manageme
 
 ### Become a Member or Client Owner
 
-More details comign soon. In the meantime reach out to us on our <a href="https://discord.gg/QK9VVg4D">Discord Server</a> if you are interested.
+More details comign soon. In the meantime reach out to us on our <a
+href="https://discord.gg/QK9VVg4D">Discord Server</a> or send us an email to  <a
+href="mailto:hello@zinc.coop">hello@zinc.coop</a> if you are interested.
 
 
 
