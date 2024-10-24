@@ -1,18 +1,24 @@
 <!doctype html>
 <html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ title | default("The Zinc Collective") }}</title>
-    <link rel="icon" href="/favicons/favicon.ico" sizes="any">
-    <link rel="stylesheet" href="/styles/default.css">
-  </head>
-  <body>
-    {% include "partials/header.njk" %}
-    <main>
-      <h1>{{ title }}</h1>
-      {{ content | safe }}
-    </main>
-    {% include "partials/footer.njk" %}
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title | default("The Zinc Collective") }}</title>
+  <link rel="icon" href="/favicons/favicon.ico" sizes="any">
+  <link rel="stylesheet" href="/styles/default.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Caladea&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  {% include "partials/header.njk" %}
+  <main>
+    <h1>{{ title }}</h1>
+    {{ content | safe }}
+  </main>
+  {% include "partials/footer.njk" %}
+</body>
+
 </html>

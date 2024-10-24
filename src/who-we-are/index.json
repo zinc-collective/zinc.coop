@@ -1,0 +1,44 @@
+{
+  "people": [
+    {
+      "name": "Zee Spencer",
+      "image": "/who-we-are/img/zspencer.jpg",
+      "type": "Member",
+      "location": "San Francisco, CA",
+      "links": {
+        "Website": "https://www.zeespencer.com",
+        "Twitter": "https://twitter.com/zspencer",
+        "Mastodon": "https://wandering.shop/@zee"
+      },
+      "specialties": "Cooperative Finance and Operations, Software Architecture, Testing, and Engineering",
+      "interests": "Reading and Story-Telling, Adventure and Story-Telling Games",
+      "bio": "Zee has worked in software for nearly two decades, primarily in engineering organizations. Zee has woven his career between individual contributor, management, leadership and training roles. At present, his focus is on developing collectively organized workplaces, with an emphasis on employee ownership of software companies."
+    },
+    {
+      "name": "Ana Ulin",
+      "image": "/who-we-are/img/anaulin.jpg",
+      "type": "Member",
+      "location": "Oakland, CA",
+      "links": {
+        "Website": "https://anaulin.org",
+        "Mastodon": "https://social.coop/@anaulin"
+      },
+      "specialties": "Software Engineering: Backend, APIs, Infrastructure, Automation, Engineering Leadership",
+      "interests": "Democratic Governance, Facilitation, Books, Cats, Knitting, Food",
+      "bio": "Ana is an experienced software engineer and engineering leader. She's worked at companies big and small, as an employee and as a contractor, as an individual contributor and as a manager. She stumbled upon Zinc in her search for better ways of working together, which is her current focus. Her engineering strengths lie in the backend, services, APIs, infrastructure and automation, as well as process and leadership coaching."
+    },
+    {
+      "name": "Ross Chapman",
+      "image": "/about-us/img/ross.jpg",
+      "type": "Member",
+      "location": "San Francisco, CA",
+      "links": {
+        "Website": "https://internetross.website",
+        "Mastodon": "https://social.coop/@internetross"
+      },
+      "specialties": "Software Architecture, Frontends, APIs",
+      "interests": "Responsible Technology Design, Kung Fu, White Anti-Racist Organizing, Democratic Workplaces, Writing, Inter-species Relationships (🐱)",
+      "bio": "Ross is a software engineer, martial arts instructor, and activist. The tantalizing ontological crisis of socio-technical software systems (mixed with a dash of retrograde fantasy to mix with [the hacker guild](https://internetross.micro.blog/2023/04/29/084402.html) keeps him eager to work on boring software that improves the collective lot. Ross loves working alongside other technologists that learn together and value [shared theory building](https://blog.ceejbot.com/posts/programming-as-theory-building/)."
+    }
+  ]
+}
